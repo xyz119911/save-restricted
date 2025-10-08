@@ -38,7 +38,7 @@
     },
     "PREMIUM_LIMIT": {
       "description": "Batch size for premium users",
-      "value": "500",
+      "value": "50000",
       "required": true
     },
     "STRING": {
